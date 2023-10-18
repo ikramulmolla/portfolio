@@ -75,6 +75,7 @@ nav{
 }
 .fa-brands{
     font-size: 46px;
+    color: white;
 }
 .fa-square-facebook:hover{
     color:#3b5998;
@@ -271,6 +272,10 @@ text-align: center;
     margin: auto;
     padding-top: 80px;
 }
+.project h1{
+    font-size: 36px;
+    font-weight: 600;
+}
 .project-col{
     flex-basis: 31%;
     text-align: left;
@@ -293,6 +298,10 @@ text-align: center;
     margin: auto;
     padding-top: 100px;
     text-align: center;
+}
+.contact h1{
+    font-size: 36px;
+    font-weight: 600;
 }
 .contact-col{
     flex-basis: 41%;
